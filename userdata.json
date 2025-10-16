@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "age": 25,
+    "role": "admin",
+    "isActive": true,
+    "address": { "city": "New York", "country": "USA" }
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "age": 30,
+    "role": "user",
+    "isActive": false,
+    "address": { "city": "London", "country": "UK" }
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "age": 22,
+    "role": "user",
+    "isActive": true,
+    "address": { "city": "Sydney", "country": "Australia" }
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "email": "diana@example.com",
+    "age": 28,
+    "role": "manager",
+    "isActive": true,
+    "address": { "city": "Berlin", "country": "Germany" }
+  },
+  {
+    "id": 5,
+    "name": "Ethan Hunt",
+    "email": "ethan@example.com",
+    "age": 35,
+    "role": "admin",
+    "isActive": false,
+    "address": { "city": "Paris", "country": "France" }
+  },
+  {
+    "id": 6,
+    "name": "Fiona Scott",
+    "email": "fiona@example.com",
+    "age": 27,
+    "role": "user",
+    "isActive": true,
+    "address": { "city": "Toronto", "country": "Canada" }
+  }
+]
